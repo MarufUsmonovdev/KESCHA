@@ -18,3 +18,4 @@ System.Console.WriteLine($"The difference between your and Kescha's age is {diff
 System.Console.WriteLine($"You are older than Kescha's age: {differenceAge > 0}");
 System.Console.WriteLine($"You are younger than Kescha's age: {differenceAge < 0}");
 System.Console.WriteLine($"Your age the same with Kescha: {differenceAge == 0}");
+System.Console.WriteLine($"Your age is not equel Kescha's age: {differenceAge != 0}");
